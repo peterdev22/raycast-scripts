@@ -2,7 +2,9 @@
 
 Script commands that I use with the MacOS launcher app, [Raycast](https://www.raycast.com/).
 
-All scripts not created by me are sourced from the offical [script-commands Repo](https://github.com/raycast/script-commands). You can find a lot more scripts free to use over there.
+The scripts that are not created by me are sourced from the offical [script-commands Repo](https://github.com/raycast/script-commands). You can find a library of great free to use scripts over there.
+
+Images used are also found from the [script-commands Repo](https://github.com/raycast/script-commands).
 
 ## Scripts Included (And their Authors)
 #### Apple Music
@@ -14,3 +16,4 @@ All scripts not created by me are sourced from the offical [script-commands Repo
 
 #### Navigation
 - Open iCloud Downloads (Me)
+- Open Desktop (Me)
